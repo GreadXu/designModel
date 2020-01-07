@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7e0b183-a2b2-442c-8980-9d2bd75692fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProxyModel/ProxyModel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProxyModel/src/proxyModel/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProxyModel/src/proxyModel/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProxyModel/src/proxyModel/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProxyModel/src/proxyModel/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProxyModel/src/proxyModel/StuProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designModel.iml" afterDir="false" />
+    <list default="true" id="a7e0b183-a2b2-442c-8980-9d2bd75692fa" name="Default Changelist" comment="设计模式Demo">
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/Benz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/VehicleManufacturers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/Demo/VehicleVender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryPattern/src/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyModel/ProxyModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyModel/src/proxyModel/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyPattern/src/Demo/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyModel/src/proxyModel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyPattern/src/Demo/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyModel/src/proxyModel/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyPattern/src/Demo/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyModel/src/proxyModel/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyPattern/src/Demo/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyModel/src/proxyModel/StuProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyPattern/src/Demo/StuProxy.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -52,6 +59,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="WangXugang &lt;780447075@qq.com&gt;" />
+        <option value="GreadXu &lt;45292758+greadxu@users.noreply.github.com&gt;" />
         <option value="王旭刚" />
       </list>
     </option>
@@ -91,25 +100,40 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IntelliJ-IDEA-Tutorial" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+    <property name="settings.editor.splitter.proportion" value="0.25386715" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\GitProject\designModel\ProxyModel\src\proxyModel" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proxyModel.ProxyTest" />
-      <module name="ProxyModel" />
+  <component name="RunManager" selected="Application.ProxyTest">
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Customer" />
+      <module name="FactoryPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxyModel.*" />
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.ProxyTest" />
+      <module name="ProxyPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Customer" />
         <item itemvalue="Application.ProxyTest" />
       </list>
     </recent_temporary>
@@ -129,17 +154,7 @@
         <serviceView>
           <option name="contentProportion" value="0.22619048" />
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:system" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:system" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@5717cf18" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -162,8 +177,19 @@
       <workItem from="1575185337191" duration="829000" />
       <workItem from="1575187687081" duration="1306000" />
       <workItem from="1575209172980" duration="2827000" />
-      <workItem from="1575212442465" duration="2208000" />
+      <workItem from="1575212442465" duration="2687000" />
+      <workItem from="1575463978676" duration="619000" />
+      <workItem from="1578319484553" duration="3094000" />
+      <workItem from="1578401748910" duration="5676000" />
     </task>
+    <task id="LOCAL-00001" summary="动态代理">
+      <created>1575214847154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575214847154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,9 +198,36 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Project/GitProject/designModel/FactoryPattern" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -182,28 +235,35 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="动态代理" />
+    <MESSAGE value="设计模式Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式Demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Inspections" timestamp="1575213674278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1575213674278" />
-    <state x="552" y="181" key="#Project_Structure" timestamp="1575185471970">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1578319756030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575185471970" />
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575213462948">
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578319756030" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578404248653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575213462948" />
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1575186162820">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578404248653" />
+    <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578319810438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575186162820" />
-    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1575214781268">
+    <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578319810438" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1578321878098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575214781268" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578321878098" />
+    <state x="572" y="115" width="876" height="818" key="CommitChangelistDialog2" timestamp="1578408066079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="115" width="876" height="818" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578408066079" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1575213470085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,26 +272,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575214234090" />
-    <state x="740" y="221" key="FileChooserDialogImpl" timestamp="1575185428643">
+    <state x="740" y="221" key="FileChooserDialogImpl" timestamp="1578407050594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575185428643" />
-    <state width="1429" height="332" key="GridCell.Tab.0.bottom" timestamp="1575214060686">
+    <state x="740" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578407050594" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578322579604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1429" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575214060686" />
-    <state width="1429" height="332" key="GridCell.Tab.0.center" timestamp="1575214060686">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578322579604" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578322579604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1429" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575214060686" />
-    <state width="1429" height="332" key="GridCell.Tab.0.left" timestamp="1575214060686">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578322579604" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578322579604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1429" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575214060686" />
-    <state width="1429" height="332" key="GridCell.Tab.0.right" timestamp="1575214060686">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578322579604" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578322579604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1429" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575214060686" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578322579604" />
     <state width="1877" height="220" key="GridCell.Tab.1.bottom" timestamp="1575212001254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -256,10 +316,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1575185431116" />
-    <state x="463" y="164" key="SettingsEditor" timestamp="1575212458730">
+    <state x="463" y="164" width="1116" height="717" key="SettingsEditor" timestamp="1578408236752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575212458730" />
+    <state x="463" y="164" width="1116" height="717" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578408236752" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1578406653631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1578406653631" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578407622079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1578407622079" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575215004534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575215004534" />
     <state x="714" y="273" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1575213130547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,17 +340,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="676" y="159" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575214004151" />
-    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575214149380">
+    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578408266314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575214149380" />
+    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578408266314" />
+    <state x="209" y="292" width="1736" height="856" key="dock-window-1" timestamp="1578321847474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="209" y="292" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1578321847474" />
     <state x="656" y="310" key="git4idea.merge.GitPullDialog" timestamp="1575214470329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="310" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575214470329" />
-    <state x="334" y="135" key="new project wizard" timestamp="1575185466077">
+    <state x="334" y="135" key="new project wizard" timestamp="1578319616990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="135" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1575185466077" />
+    <state x="334" y="135" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578319616990" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578407506311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578407506311" />
   </component>
 </project>

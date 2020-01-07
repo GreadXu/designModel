@@ -1,8 +1,5 @@
-package proxyModel;
+package Demo;
 
-import sun.misc.ProxyGenerator;
-
-import java.io.FileOutputStream;
 import java.lang.reflect.Proxy;
 
 public class ProxyTest {

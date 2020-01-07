@@ -1,4 +1,4 @@
-package proxyModel;
+package Demo;
 
 /**
  * 被代理对象
